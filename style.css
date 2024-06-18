@@ -1,0 +1,154 @@
+#ime{
+    margin:-10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(26, 38, 66);
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+body{
+    background-color:rgb(144, 153, 175) ;
+}
+#slika{
+    margin-left: 75%; 
+    margin-top: 20px;  
+}
+img{
+    border-radius: 100%;
+    border: 2.5px solid rgb(26, 38, 66);
+}
+#pin{
+    margin-top: -190px;
+    color: rgb(26, 38, 66);
+    margin-left: 30%;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+    padding: 30px;
+    
+}
+#edu{
+    color: white;
+    background-color: rgba(26, 38, 66, 0.61);    
+    padding: 5px;
+    margin-left: 100px;
+    border-radius: 5px;
+    text-align: center;
+    width: 400px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+   
+}
+#skole{
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin-left: 150px;
+    padding: 10px;
+}
+#int{
+    color: white;
+    background-color: rgba(26, 38, 66, 0.61);    
+    padding: 5px;
+    margin-left: 100px;
+    border-radius: 5px;
+    text-align: center;
+    width: 400px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+#vest{
+    color: white;
+    background-color: rgba(26, 38, 66, 0.61);    
+    padding: 5px;
+    margin-left: 100px;
+    border-radius: 5px;
+    text-align: center;
+    width: 400px;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+#hobby{
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin-left: 150px;
+    padding: 10px;
+}
+#zve{
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin-left: 150px;
+    padding: 10px;
+}
+#Uspesi{
+    color: rgb(216, 224, 245);
+    background-color: rgba(26, 38, 66, 0.267);    
+    padding: 5px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+#kontakt{
+    color: rgb(216, 224, 245);
+    background-color: rgba(26, 38, 66, 0.267);    
+    padding: 5px;
+    width: 150px;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+#usp{
+    margin:-10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(26, 38, 66);
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+#tabela{
+    background-color: white;
+    color: rgb(26, 38, 66);
+  padding: 10px;
+    margin-left: 36%;
+    margin-top: 2%;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+    font-size: medium;
+    width: 500px;
+}
+#moj{
+    margin:-10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(26, 38, 66);
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+#podaci{
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    margin-left: 150px;
+    padding: 10px;
+}
+#frome{
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+    padding: 10px;
+    background-color: rgba(26, 38, 66, 0.438);
+    color: rgb(26, 38, 66);
+    border-radius: 5px;
+text-align: center;
+    margin:5px;
+}
